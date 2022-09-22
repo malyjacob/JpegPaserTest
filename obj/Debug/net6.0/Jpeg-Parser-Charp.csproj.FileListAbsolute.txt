@@ -1,0 +1,15 @@
+C:\Users\DELL\source\repos\Jpeg-Parser-Charp\obj\Debug\net6.0\Jpeg-Parser-Charp.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\Jpeg-Parser-Charp\obj\Debug\net6.0\Jpeg-Parser-Charp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\Jpeg-Parser-Charp\obj\Debug\net6.0\Jpeg-Parser-Charp.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\Jpeg-Parser-Charp\obj\Debug\net6.0\Jpeg-Parser-Charp.AssemblyInfo.cs
+C:\Users\DELL\source\repos\Jpeg-Parser-Charp\obj\Debug\net6.0\Jpeg-Parser-Charp.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\Jpeg-Parser-Charp\bin\Debug\net6.0\Jpeg-Parser-Charp.exe
+C:\Users\DELL\source\repos\Jpeg-Parser-Charp\bin\Debug\net6.0\Jpeg-Parser-Charp.deps.json
+C:\Users\DELL\source\repos\Jpeg-Parser-Charp\bin\Debug\net6.0\Jpeg-Parser-Charp.runtimeconfig.json
+C:\Users\DELL\source\repos\Jpeg-Parser-Charp\bin\Debug\net6.0\Jpeg-Parser-Charp.dll
+C:\Users\DELL\source\repos\Jpeg-Parser-Charp\bin\Debug\net6.0\Jpeg-Parser-Charp.pdb
+C:\Users\DELL\source\repos\Jpeg-Parser-Charp\obj\Debug\net6.0\Jpeg-Parser-Charp.dll
+C:\Users\DELL\source\repos\Jpeg-Parser-Charp\obj\Debug\net6.0\refint\Jpeg-Parser-Charp.dll
+C:\Users\DELL\source\repos\Jpeg-Parser-Charp\obj\Debug\net6.0\Jpeg-Parser-Charp.pdb
+C:\Users\DELL\source\repos\Jpeg-Parser-Charp\obj\Debug\net6.0\Jpeg-Parser-Charp.genruntimeconfig.cache
+C:\Users\DELL\source\repos\Jpeg-Parser-Charp\obj\Debug\net6.0\ref\Jpeg-Parser-Charp.dll
